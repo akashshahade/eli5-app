@@ -28,7 +28,7 @@ Built using **Streamlit** and a **public Hugging Face model**, it runs entirely 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/eli5-app.git
+git clone git clone https://huggingface.co/spaces/akashshahade/eli5-app
 cd eli5-app
 pip install -r requirements.txt
 streamlit run app.py
