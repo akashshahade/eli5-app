@@ -48,7 +48,8 @@ You can deploy this on [Hugging Face Spaces](https://huggingface.co/spaces) for 
 
 ## 📸 Screenshots
 
-![screenshot](https://via.placeholder.com/800x400.png?text=ELI5+App+Screenshot)
+![image](https://github.com/user-attachments/assets/1aa924cb-40fd-4a52-8bc0-786a5165780d)
+
 
 ---
 
